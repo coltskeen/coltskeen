@@ -7,7 +7,7 @@ I am a Full Stack Software Engineer, and I love designing and building web appli
 
 ## Skills and Experience
 * 💻 JS / CSS / HTML
-* ⚙️ NODE JS / EXPRESS / POSGRESQL / SQLITE
+* ⚙️ NODE JS / EXPRESS / POSTGRESQL / SQLITE
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coltskeen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/coltskeen//)  
