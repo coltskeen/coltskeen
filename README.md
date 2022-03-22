@@ -6,7 +6,7 @@ I am a Full Stack Software Engineer, and I love designing and building web appli
 'Nough about me - check out my Linked-In below if you're in to that sort of thing.
 
 ## Skills and Experience
-* 💻 JS / CSS / HTML
+* 💻 JS / CSS / HTML / JQUERY / DOM MANIPULATION
 * ⚙️ NODE JS / EXPRESS / POSTGRESQL / SQLITE
 
 
