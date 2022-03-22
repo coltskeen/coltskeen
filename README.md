@@ -1,6 +1,9 @@
+# Hiya!
+
+> My name is Colt. This is my GitHub.
+
 ![Full Stack Engineer](https://github.com/coltskeen/coltskeen/blob/main/GitHub%20Banner.png)
 
-# Colt Skeen
 I am a Full Stack Software Engineer, and I love designing and building web applications using both front and backend development tools.  I am a soon to be Army Veteran pursing what I love most: building simple and elegant software solutions. Oh and did I mention that I love Tolkien's works? Check out my favorite application: The Tolkien Daily at https://thetolkiendaily.herokuapp.com/. Forthcoming features will include: The Greatest Adventure Mini Game and A Walk Down Tolkien Lane.
 
 'Nough about me - check out my Linked-In below if you're in to that sort of thing.
@@ -15,7 +18,7 @@ I am a Full Stack Software Engineer, and I love designing and building web appli
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style-flat-green?logo=appveyor&style=flat&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style-flat-green?logo=appveyor&style=flat&logo=npm&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style-flat-green?logo=appveyor&style=flat&logo=heroku&logoColor=white) 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style-flat-green?logo=appveyor&style=flat&logo=visual-studio-code&logoColor=white)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coltskeen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/coltskeen//)  
+![GitHub-Mark-Light-32px](https://user-images.githubusercontent.com/93236823/159561415-9fe8164c-7210-4d2f-9082-6476a5297c66.png)
+![LI-In-Bug](https://user-images.githubusercontent.com/93236823/159561341-4573b0c7-f4f6-461e-893d-1987425cc231.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coltskeen&show_icons=true)  
-
