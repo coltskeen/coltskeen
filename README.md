@@ -4,7 +4,7 @@
 
 ![Full Stack Engineer](https://github.com/coltskeen/coltskeen/blob/main/GitHub%20Banner.png)
 
-I am a Full Stack Software Engineer, and I love designing and building web applications using both front and backend development tools.  I am a soon to be Army Veteran pursing what I love most: building simple and elegant software solutions. Oh and did I mention that I love Tolkien's works? Check out my favorite application: The Tolkien Daily at https://thetolkiendaily.herokuapp.com/. Forthcoming features will include: The Greatest Adventure Mini Game and A Walk Down Tolkien Lane.
+I am a Full Stack Software Engineer, and I love designing and building web applications using both front and backend development tools.  I am an Army Veteran pursing what I love most: building simple and elegant software solutions. Oh and did I mention that I love Tolkien's works? Check out my favorite application: The Tolkien Daily at https://thetolkiendaily.herokuapp.com/. Forthcoming features will include: The Greatest Adventure Mini Game and A Walk Down Tolkien Lane.
 
 'Nough about me - check out my Linked-In below if you're in to that sort of thing.
 
