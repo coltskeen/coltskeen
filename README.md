@@ -2,8 +2,6 @@
 
 > My name is Colt. This is my GitHub.
 
-![Full Stack Engineer](https://github.com/coltskeen/coltskeen/blob/main/GitHub%20Banner.png)
-
 I am a Full Stack Software Engineer, and I love designing and building web applications using both front and backend development tools.  I am an Army Veteran pursing what I love most: building simple and elegant software solutions. Currently, I've had the pleasure of re-building an internal product and rates tracking application using primarily the Angular Framework for Gesa Credit Union as well as upgrade, update, and prepare our backend code base for migration to the Axway API Gateway. Oh and did I mention that I love Tolkien's works? Check out my favorite personal application: The Tolkien Daily at https://thetolkiendaily.herokuapp.com/. Forthcoming features will include: The Greatest Adventure Mini Game and A Walk Down Tolkien Lane.
 
 'Nough about me - check out my Linked-In below if you're in to that sort of thing.
